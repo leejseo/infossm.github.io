@@ -3,6 +3,7 @@ layout: post
 title: "Power Projection of Set Power Series"
 date: 2026-03-23
 author: qwerasdfzxcl
+tag: [algorithm, set-power-series]
 ---
 
 ## Introduction
