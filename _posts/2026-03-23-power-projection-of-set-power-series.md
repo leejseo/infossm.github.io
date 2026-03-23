@@ -1,3 +1,10 @@
+---
+layout: post
+title: "Power Projection of Set Power Series"
+date: 2026-03-23
+author: qwerasdfzxcl
+---
+
 ## Introduction
 이 글에서는 power projection of set power series를 $O(N^2 2^N+M)$에 계산하는 알고리즘에 대해 알아볼 것이다. 이를 이용해 정점이 $N$개인 그래프의 chromatic polynomial을 $O(N^2 2^N)$에 계산하는 알고리즘도 함께 다룬다.
 
