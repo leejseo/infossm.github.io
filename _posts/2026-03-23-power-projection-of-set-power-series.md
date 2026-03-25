@@ -302,7 +302,7 @@ vector<mint> power_proj_of_set_power_series(int m, vector<mint> c, const vector<
 ```
 
 
-https://judge.yosupo.jp/problem/power_projection_of_set_power_series 에서 구현한 코드를 검증할 수 있다.
+[https://judge.yosupo.jp/problem/power_projection_of_set_power_series](https://judge.yosupo.jp/problem/power_projection_of_set_power_series) 에서 구현한 코드를 검증할 수 있다.
 
 ## Chromatic Polynomial
 정점이 $N$개인 그래프 $G=(V, E)$에 대해 $G$의 [chromatic polynomial](https://en.wikipedia.org/wiki/Chromatic_polynomial) $P_G$의 차수는 $N$이하라는 것이 잘 알려져 있다. 따라서, $P_G(0), P_G(1), \cdots, P_G(N)$를 계산하면 interpolation을 통해 chromatic polynomial을 계산할 수 있다.
@@ -343,7 +343,7 @@ vector<mint> chromatic_polynomial(int n, const vector<array<int, 2>> &E){
 
 
 ## 연습문제
-https://www.acmicpc.net/problem/17643
+[https://www.acmicpc.net/problem/17643](https://www.acmicpc.net/problem/17643)
 
 self-loop가 없고 서로 다른 두 점을 연결하는 간선이 정확히 $1$개인 유향그래프가 주어졌을 때, 간선의 방향을 적절히 뒤집어 DAG가 되도록 하는 모든 방법에 대해 비용의 합을 구하는 문제이다. 비용은 뒤집은 간선의 개수로 정의된다.
 
