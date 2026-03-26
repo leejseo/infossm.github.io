@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Learning-augmented Algorithm이란 무엇인가"
+title: "Learning-augmented Algorithm 소개"
 date: 2026-03-25
 author: leejseo
 tags: [algorithm, machine-learning]
